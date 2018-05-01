@@ -6,6 +6,8 @@ Created by Laura Macia: April 2018
      
      Answer to Challenge: Arrays
      
+     Open source files in preferred Java IDE, compile and Run.
+     
      Challenge: 
      
      Create a program using arrays that sorts a list of integers in descending order.
